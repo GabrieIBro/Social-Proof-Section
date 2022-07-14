@@ -135,15 +135,15 @@ h1 {
     margin-right: 10%;
 }
 
-#name {
+.name {
     font-weight: 700;
 }
 
-#verified-buyer {
+.verified-buyer {
     color: hsl(333, 80%, 67%);
 }
 
-#review {
+.review {
     font-weight: 500;
     line-height: 110%;
 }
